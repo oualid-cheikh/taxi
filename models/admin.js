@@ -11,3 +11,15 @@ const adminschema = new mongosse.Schema ({
 })
 let admin= mongosse.model('admin',adminschema,'taxi')
 module.exports= admin;
+//admin=mongoose.model('admin',adminschema);
+        
+//module.exports={
+   // createData:function(inputData, callback){
+                 
+    //   admin= new admin(inputData);
+    //   admin.save(function(err, data){
+     //    if (err) throw err;
+    //      return callback(data);
+   //    });
+   // }
+//}
