@@ -1,0 +1,16 @@
+{
+  "name": "taxi",
+  "version": "1.0.0",
+  "description": "gestion Taxi",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "oualid cheikh",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.10"
+  }
+}
